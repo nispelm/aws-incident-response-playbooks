@@ -14,6 +14,7 @@ You are responsible for making your own independent assessment of the informatio
 
 ## Summary
 
+
 ### This Playbook
 
 This playbook outlines response steps for handling ransomware incidents.  These steps are based on the [NIST Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) (Special Publication 800-61 Revision 2) that can be used to:
